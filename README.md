@@ -1,2 +1,7 @@
-# Travel_FlutterFlow
-a small app done using flutter flow with a API created in google sheet
+# Travel
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
